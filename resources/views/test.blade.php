@@ -272,7 +272,6 @@
         <table class="w-100">
             <tr>
                 <td style="width: 15%; text-align: center;">
-                    <img src="тест" style="width: 36px">
                 </td>
                 <td>
                     <p class="text-red lot-info-p spacing-0">О готовности ТС к продаже вам необходимо сообщить:</p>
@@ -296,7 +295,6 @@
                     <p class="spacing-0 lot-info-p">Генеральный директор ООО “МИГАС”</p>
                 </td>
                 <td class="w-50" style="vertical-align: center;text-align: right;">
-                    <img src="тест" style="width: 80%">
                 </td>
             </tr>
         </table>
